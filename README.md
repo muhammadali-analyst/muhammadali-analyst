@@ -1,5 +1,8 @@
 # 💫 About Me:
-looking for job and learning new technologies . I'm a fresh computer science graduate<br>
+👋 Hi, I'm Muhammad Ali Saleem
+💡 I’m passionate about Data Analysis, AI Engineering, and Data Science
+🌱 Currently learning and building AI/ML models to strengthen my skills
+📫 Connect with me on LinkedIn: https://www.linkedin.com/in/muhammad-ali-saleem-69b892245/
 
 
 ## 🌐 Socials:
